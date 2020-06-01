@@ -710,14 +710,70 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s0DB304wGy {
-  background-color: #efefef;
+.cid-s0GV5Tu9AG {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/img-20200526-wa0023-1280x960.jpg");
 }
-.cid-s0DB304wGy P {
-  color: #767676;
+.cid-s0GV5Tu9AG .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-s0DB304wGy H1 {
-  color: #ff3366;
+@media (min-width: 992px) {
+  .cid-s0GV5Tu9AG .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s0GV5Tu9AG .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s0GV5Tu9AG .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s0GV5Tu9AG H1 {
+  text-align: left;
+}
+.cid-s0GV5Tu9AG .mbr-text,
+.cid-s0GV5Tu9AG .mbr-section-btn {
+  color: #ff7f9f;
+}
+.cid-s0GVBcAAHL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-s0GVBcAAHL .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-s0GVBcAAHL .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-s0GVBcAAHL .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-s0GVBcAAHL .mbr-text {
+  color: #ffffff;
+}
+.cid-s0GVBcAAHL .card {
+  padding-bottom: 1.5rem;
+}
+.cid-s0GVBcAAHL .mbr-text,
+.cid-s0GVBcAAHL .mbr-section-btn {
+  color: #f7ed4a;
 }
 .cid-rXb1BxVOmM {
   padding-top: 0px;
@@ -4336,4 +4392,17 @@ section.lazy-placeholder:after {
 .cid-rVvcHYkoHn .nav-link:hover,
 .cid-rVvcHYkoHn .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-s0GW5oYA1z {
+  background-color: #55b4d4;
+}
+.cid-s0GW5oYA1z P {
+  color: #767676;
+}
+.cid-s0GW5oYA1z .mbr-text,
+.cid-s0GW5oYA1z .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s0GW5oYA1z H1 {
+  color: #ffffff;
 }
